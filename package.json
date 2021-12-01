@@ -1,0 +1,28 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Working with mithril with better practices than my first project to get a better idea.",
+  "main": "index.js",
+  "dependencies": {
+    "mithril": "^2.0.4",
+    "webpack": "^5.64.4"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.9.1"
+  },
+  "scripts": {
+    "start": "webpack",
+    "watch": " webpack --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isack-ramirez/mithrilExperimenting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isack-ramirez/mithrilExperimenting/issues"
+  },
+  "homepage": "https://github.com/isack-ramirez/mithrilExperimenting#readme"
+}
