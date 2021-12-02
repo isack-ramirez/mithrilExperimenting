@@ -1,0 +1,11 @@
+.headerWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(128, 16, 16);
+    
+}
+
+.header{
+    color: white;
+}
