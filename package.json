@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "mithril": "^2.0.4",
+    "mithril-redux": "^1.0.0",
     "webpack": "^5.64.4"
   },
   "devDependencies": {
